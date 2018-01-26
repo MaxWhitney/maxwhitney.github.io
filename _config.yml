@@ -7,13 +7,13 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://MaxWhitney.github.io/vitae
+url: http://MaxWhitney.github.io/
 author: Max Whitney
 
 # edit this section with your information
 # MaxWhitney.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
+baseurl: /
 title: Max Whitney's Resume
 name: Max Whitney
 email: mwx@protonmail.com
