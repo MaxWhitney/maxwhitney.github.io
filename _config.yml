@@ -13,7 +13,7 @@ author: Max Whitney
 # edit this section with your information
 # MaxWhitney.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /
+baseurl: /prod_vitae
 title: Max Whitney's Resume
 name: Max Whitney
 email: mwx@protonmail.com
