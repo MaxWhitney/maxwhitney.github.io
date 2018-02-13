@@ -14,9 +14,9 @@ author: Max Whitney
 # MaxWhitney.github.io - all contents run on /prod_vitae/
 # for a normal use at the base of the server change it to "/"
 ### for local development:
-baseurl: /prod_vitae
+###baseurl: /prod_vitae
 ### for production:
-###baseurl: /
+baseurl: /
 title: Max Whitney's Resume
 name: Max Whitney
 email: mwx@protonmail.com
