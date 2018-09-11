@@ -3,7 +3,10 @@ highlighter: rouge
 markdown: kramdown
 rdiscount:
   extensions: [smart]
+# permalink from sustain:
 permalink: /:title.html
+## permalink from vitae:
+##permalink: :title.html
 paginate: 5
 plugins: [jekyll-paginate]
 port: 3000
@@ -12,20 +15,32 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://maxwhitney.github.io/
-baseurl: /sustain/
-title: Max Whitney
+baseurl: /
+#baseurl: /sustain/
+#baseurl: /vitae/
+title: Max Whitney Personal Site
 author: Max Whitney
 description: Personal blog and resume
 avatar: profile.png
 email: mwx@protonmail.com
+email_full: mailto:mwx@protonmail.com
 github: maxwhitney # username
 twitter: maxwhitney
 linkedin: maxwhitney
+website: maxwhitney.github.io/sustain
+website_full: https://maxwhitney.github.io/sustain
 #stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 #disqus: username
-#google_analytics: UA-69391421-1
 
+#tel: +1 000 0000000
+#tel_full: tel:+10000000000
+google_maps: 'https://www.google.com/maps/place/New+York+City'
+address:
+  city: New York City
+  state: New York
+  country: United States
+google_analytics: UA-112887571-1
 
 # needed for travis-ci build
 exclude: [vendor]
