@@ -13,18 +13,22 @@ author: Max Whitney
 # edit this section with your information
 # MaxWhitney.github.io - all contents run on /prod_vitae/
 # for a normal use at the base of the server change it to "/"
+<<<<<<< HEAD:_config.yml
 ### for local development:
 ###baseurl: /prod_vitae
 ### for production:
 baseurl: /
+=======
+baseurl: /vitae
+>>>>>>> dd62102f603fe8398ee12c623662475a63016cc0:vitae/_config.yml
 title: Max Whitney's Resume
 name: Max Whitney
 email: mwx@protonmail.com
 # email_full is the mailto: format
 email_full: mailto:mwx@protonmail.com
-# eventually do want to add a sustain styled blog: but not today
-#website: github.io/sustain
-#website_full: https://myjekyll.github.io/sustain
+# finally getting around to trying to do that full on blog & vitae
+website: maxwhitney.github.io/sustain
+website_full: https://maxwhitney.github.io/sustain
 github: MaxWhitney
 twitter: maxwhitney
 #tel: +1 000 0000000
